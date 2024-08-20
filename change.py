@@ -1,7 +1,7 @@
 def change():
     expense = 23.75
     money = 100
-    print(f"Ingresar gasto: \n{expense}")
+    print(f"Ingresar gasto:\n{expense}")
     print(f"Dinero recibido \n{money}")
     print(f"\nVuelto\n")
     print(f"Pesos: \n{int(money-expense)}")
